@@ -4,6 +4,8 @@
   flex-direction: row;
   justify-content: center;
   align-items: center;
+  background-color: darkcyan;
+  color: black;
 }
 
 .footer {
@@ -24,6 +26,7 @@
   font-size: 2rem;
   /* margin = 2 * fontsize of root element */
   margin: 2rem 0;
+  font-family: century;
 }
 
 .description {
@@ -36,9 +39,9 @@
 .button {
   /* gives button rounded corners */
   border-radius: 4px;
-  background-color: blue;
+  background-color: bisque;
   border: none;
-  color: #ffffff;
+  color: brown;
   font-size: 15px;
   padding: 20px;
   width: 200px;
